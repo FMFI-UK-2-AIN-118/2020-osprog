@@ -12,7 +12,7 @@ all: $(RUN_TESTS)
 test: $(RUN_TEST_DEFAULT)
 
 memcheck: TestBuffer
-	valgrind --leak-check=yes ./testBuffer
+	valgrind --leak-check=yes ./TestBuffer
 
 TestCBuffer.o cbuffer.o: cbuffer.h Makefile
 TestCBuffer: test.o TestCBuffer.o cbuffer.o
