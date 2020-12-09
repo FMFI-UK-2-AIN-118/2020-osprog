@@ -3,7 +3,7 @@ Lab 10
 
 Submit the solution to [Asynchronous shell](#asynchronous-shell)
 according to the [Submitting instructions](#submitting)
-before Wednesday Dec 9 23:59:59.
+before Wednesday Dec 16 23:59:59.
 
 *If your solution also solves the [bonus](#bonus-job-control), state it clearly
 in the pull request message.*
